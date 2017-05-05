@@ -1,0 +1,14 @@
+Ejercicio[[:space:]]1.docx filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+metricas1.png filter=lfs diff=lfs merge=lfs -text
+metricas2.png filter=lfs diff=lfs merge=lfs -text
+*.mat filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]1.docx filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]2.docx filter=lfs diff=lfs merge=lfs -text
+~$ercicio[[:space:]]2.docx filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]1.docx filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]2.docx filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]1.pdf filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]2.pdf filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]1.docx filter=lfs diff=lfs merge=lfs -text
+Ejercicio[[:space:]]2.docx filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,6 @@
+data/eco
+*.csv
+~$ejer*
+solutions/*
+utils/old_files/*
+*_solucion.*
