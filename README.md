@@ -3,7 +3,7 @@
 Las prácticas se dividirán en dos ejercicios. Primeramente utilizaremos la base de datos ECO dataset para realizar una serie de visualizaciones. A continuación se implementará un detector de eventos. 
 
 
-##1 - Ejercicio 1: Data Analysis and Visualization
+## 1 - Ejercicio 1: Data Analysis and Visualization
 
 Hay que descargar los archivos en: 
 http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
@@ -18,7 +18,7 @@ Para la casa NN y el dispositivo MM, los datos de lectura se encuentra en el sig
 
 La frequencia de adquisicion de la base de datos es de 1Hz. 
 
-##2 - Deteccion de eventos NILM
+## 2 - Deteccion de eventos NILM
 
 Implementaremos un detector de eventos muy sencillo. Este es el paso previo a la desagregación en algoritmos NILM basados en eventos. Posteriormente, un clasificador nos dará la etiqueta (e.g. Microondas) de dicho evento. 
 
